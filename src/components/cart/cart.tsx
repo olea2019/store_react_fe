@@ -63,9 +63,6 @@ export const CartBlock = () => {
                 Comanda din data:
                 {day}/{month}/{year}
             </div>
-            <div>
-                Statutul: {order?.status}
-            </div>
 
             <div style={{ display: 'flex', flexWrap: 'wrap', margin: 'auto' }}>
                 {
