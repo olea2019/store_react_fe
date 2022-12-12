@@ -1,0 +1,21 @@
+.filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    // &__sliderBlock {
+    //     width: 500px;
+    //     margin: 50px;
+    // }
+
+    &__brand {
+        width: 350px;
+        margin: 40px;
+    }
+
+    &__sortPrice {
+        width: 380px;
+        margin: 50px;
+    }
+
+}
